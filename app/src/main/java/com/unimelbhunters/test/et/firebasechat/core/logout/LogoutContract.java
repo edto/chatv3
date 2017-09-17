@@ -1,11 +1,5 @@
 package com.unimelbhunters.test.et.firebasechat.core.logout;
 
-/**
- * Author: Kartik Sharma
- * Created on: 8/28/2016 , 11:06 AM
- * Project: FirebaseChat
- */
-
 public interface LogoutContract {
     interface View {
         void onLogoutSuccess(String message);

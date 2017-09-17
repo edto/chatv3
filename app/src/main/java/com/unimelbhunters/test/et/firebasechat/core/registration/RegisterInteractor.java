@@ -10,7 +10,7 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 
 /**
- * Author: Kartik Sharma
+ *
  * Created on: 8/28/2016 , 11:10 AM
  * Project: FirebaseChat
  */

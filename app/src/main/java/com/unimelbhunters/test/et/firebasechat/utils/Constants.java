@@ -1,11 +1,5 @@
 package com.unimelbhunters.test.et.firebasechat.utils;
 
-/**
- * Author: Kartik Sharma
- * Created on: 9/2/2016 , 10:12 PM
- * Project: FirebaseChat
- */
-
 public class Constants {
     public static final String ARG_USERS = "users";
     public static final String ARG_RECEIVER = "receiver";

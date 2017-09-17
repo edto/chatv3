@@ -18,11 +18,7 @@ import com.unimelbhunters.test.et.firebasechat.core.login.LoginPresenter;
 import com.unimelbhunters.test.et.firebasechat.ui.activities.RegisterActivity;
 import com.unimelbhunters.test.et.firebasechat.ui.activities.UserListingActivity;
 
-/**
- * Author: Kartik Sharma
- * Created on: 8/28/2016 , 10:36 AM
- * Project: FirebaseChat
- */
+
 
 public class LoginFragment extends Fragment implements View.OnClickListener, LoginContract.View {
     private LoginPresenter mLoginPresenter;

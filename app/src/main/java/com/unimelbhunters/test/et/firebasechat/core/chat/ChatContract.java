@@ -4,12 +4,6 @@ import android.content.Context;
 
 import com.unimelbhunters.test.et.firebasechat.models.Chat;
 
-/**
- * Author: Kartik Sharma
- * Created on: 8/28/2016 , 11:06 AM
- * Project: FirebaseChat
- */
-
 public interface ChatContract {
     interface View {
         void onSendMessageSuccess();

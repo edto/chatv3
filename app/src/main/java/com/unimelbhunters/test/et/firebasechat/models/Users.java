@@ -1,11 +1,5 @@
 package com.unimelbhunters.test.et.firebasechat.models;
 
-/**
- * Author: Kartik Sharma
- * Created on: 8/28/2016 , 2:25 PM
- * Project: FirebaseChat
- */
-
 public class Users {
     private String emailId;
     private String lastMessage;

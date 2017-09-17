@@ -13,12 +13,6 @@ import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
-/**
- * Author: Kartik Sharma
- * Created on: 9/2/2016 , 10:08 PM
- * Project: FirebaseChat
- */
-
 public class AddUserInteractor implements AddUserContract.Interactor {
     private AddUserContract.OnUserDatabaseListener mOnUserDatabaseListener;
 

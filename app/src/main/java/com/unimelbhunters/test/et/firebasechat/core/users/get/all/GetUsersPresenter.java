@@ -4,12 +4,6 @@ import com.unimelbhunters.test.et.firebasechat.models.User;
 
 import java.util.List;
 
-/**
- * Author: Kartik Sharma
- * Created on: 9/2/2016 , 10:05 PM
- * Project: FirebaseChat
- */
-
 public class GetUsersPresenter implements GetUsersContract.Presenter, GetUsersContract.OnGetAllUsersListener {
     private GetUsersContract.View mView;
     private GetUsersInteractor mGetUsersInteractor;

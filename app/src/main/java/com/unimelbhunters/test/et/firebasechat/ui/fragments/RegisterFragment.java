@@ -21,11 +21,7 @@ import com.unimelbhunters.test.et.firebasechat.core.users.add.AddUserPresenter;
 import com.unimelbhunters.test.et.firebasechat.ui.activities.UserListingActivity;
 import com.google.firebase.auth.FirebaseUser;
 
-/**
- * Author: Kartik Sharma
- * Created on: 8/28/2016 , 10:36 AM
- * Project: FirebaseChat
- */
+
 
 public class RegisterFragment extends Fragment implements View.OnClickListener, RegisterContract.View, AddUserContract.View {
     private static final String TAG = RegisterFragment.class.getSimpleName();

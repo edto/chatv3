@@ -2,12 +2,6 @@ package com.unimelbhunters.test.et.firebasechat.models;
 
 import com.google.firebase.database.IgnoreExtraProperties;
 
-/**
- * Author: Kartik Sharma
- * Created on: 9/4/2016 , 12:43 PM
- * Project: FirebaseChat
- */
-
 @IgnoreExtraProperties
 public class Chat {
     public String sender;

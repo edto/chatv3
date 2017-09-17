@@ -6,11 +6,7 @@ import android.support.v4.app.FragmentPagerAdapter;
 
 import com.unimelbhunters.test.et.firebasechat.ui.fragments.UsersFragment;
 
-/**
- * Author: Kartik Sharma
- * Created on: 9/4/2016 , 12:03 PM
- * Project: FirebaseChat
- */
+
 
 public class UserListingPagerAdapter extends FragmentPagerAdapter {
     private static final Fragment[] sFragments = new Fragment[]{/*UsersFragment.newInstance(UsersFragment.TYPE_CHATS),*/

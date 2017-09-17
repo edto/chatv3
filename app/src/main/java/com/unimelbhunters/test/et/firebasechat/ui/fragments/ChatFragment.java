@@ -28,11 +28,7 @@ import org.greenrobot.eventbus.Subscribe;
 
 import java.util.ArrayList;
 
-/**
- * Author: Kartik Sharma
- * Created on: 8/28/2016 , 10:36 AM
- * Project: FirebaseChat
- */
+
 
 public class ChatFragment extends Fragment implements ChatContract.View, TextView.OnEditorActionListener {
     private RecyclerView mRecyclerViewChat;

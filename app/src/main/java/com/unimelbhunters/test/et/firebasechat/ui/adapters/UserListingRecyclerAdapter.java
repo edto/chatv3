@@ -11,11 +11,7 @@ import com.unimelbhunters.test.et.firebasechat.models.User;
 
 import java.util.List;
 
-/**
- * Author: Kartik Sharma
- * Created on: 8/28/2016 , 2:23 PM
- * Project: FirebaseChat
- */
+
 
 public class UserListingRecyclerAdapter extends RecyclerView.Adapter<UserListingRecyclerAdapter.ViewHolder> {
     private List<User> mUsers;

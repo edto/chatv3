@@ -21,11 +21,7 @@ import com.unimelbhunters.test.et.firebasechat.utils.ItemClickSupport;
 
 import java.util.List;
 
-/**
- * Author: Kartik Sharma
- * Created on: 8/28/2016 , 10:36 AM
- * Project: FirebaseChat
- */
+
 
 public class UsersFragment extends Fragment implements GetUsersContract.View, ItemClickSupport.OnItemClickListener, SwipeRefreshLayout.OnRefreshListener {
     public static final String ARG_TYPE = "type";
